@@ -1,0 +1,6 @@
+//For image to be responsive
+img {
+    max-width: 100%; //if width:100% is used, the image can be scaled up to be larger than its original size. 
+                      //A better solution, in many cases, will be to use the max-width property instead.
+    height: auto;
+}
